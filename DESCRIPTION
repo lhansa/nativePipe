@@ -1,0 +1,12 @@
+Package: nativePipe
+Type: Package
+Title: Addin for inserting native R pipe and shortcut.
+Version: 0.1.0
+Author: Leonardo Hansa
+Maintainer: Leonardo Hansa <leonardo.hansa@pm.me>
+Description: The package includes a function for inserting the native pipe. 
+    It provides an RStudio addin for inserting it easily (magrittr way)
+License: Use it as you want
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
